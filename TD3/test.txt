@@ -1,0 +1,5 @@
+feu	feu
+ses	ses
+mes	mes
+étude 	étude 
+études 	études 
